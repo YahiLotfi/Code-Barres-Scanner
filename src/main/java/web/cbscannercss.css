@@ -1,0 +1,67 @@
+#titre{
+    position: relative;
+    left: 4px;
+    font-family: "Public Sans",Helvetica,Roboto,Arial,sans-serif;
+    margin-left: 138px;
+    margin : 0px;
+    font-size: 1rem;
+
+}
+
+.grade_title_attr_title{
+
+    position: relative;
+    left: 4px;
+    font-weight:400;
+    font-family: "Public Sans",Helvetica,Roboto,Arial,sans-serif;
+    padding-top: 7px;
+    margin: 0px;
+
+}
+#product_summary{
+
+    background-color:white ;
+
+}
+.card{
+    border-radius: 9px;
+
+    background-color:lightgray;
+
+}
+
+.attr_text{
+    padding : 4px;
+}
+#nutriscoreresult{
+    border-radius: 9px;
+
+    background-color: rgba(96,172,14,.1)!important;
+    width: 620px;
+}
+#ecoscoreresult{
+    position: relative;
+    border-radius: 9px;
+    width: 620px;
+    top: 22px;
+    background-color: rgba(96,172,14,.1)!important;
+
+}
+
+#camera {
+position: relative;
+    border-radius: 9px;
+    top: 22px;
+
+
+}
+#code{
+    position: relative;
+    left: 150px;
+    font-size: larger;
+    font-family: "Public Sans",Helvetica,Roboto,Arial,sans-serif;
+}
+.img_attr{
+    position: relative;
+    top: 5px;
+}
